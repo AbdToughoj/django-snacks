@@ -1,1 +1,3 @@
 # Django-Snacks
+
+## Snacks Project
