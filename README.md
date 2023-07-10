@@ -1,1 +1,1 @@
-# django-snacks
+# Django-Snacks
